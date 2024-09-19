@@ -6,9 +6,9 @@ import Home from "./pages/Home";
 const App = () => {
   return (
     <div>
-       <Home />
-       <About />
-       <Contact />
+      <Home />
+      <About />
+      <Contact />
     </div>
   );
 };

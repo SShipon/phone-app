@@ -1,8 +1,8 @@
-import React from 'react'
+
 
 function Service() {
   return (
-      <div className='width-[90%] mx-auto'>
+      <div className='w-[90%] mx-auto'>
           <div className='grid grid-cols-3'>
               <div className="card card-compact bg-base-100 w-96 shadow-xl">
                   <figure>
